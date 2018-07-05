@@ -6,6 +6,7 @@ colorlog==3.1.4
 websockets==5.0.1
 pyyaml==3.12
 
-python-geohash
-pynmea2
-numpi
+python-geohash==0.8.5
+pynmea2==1.12.0
+numpi==1.14.3
+
