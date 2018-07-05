@@ -1,0 +1,11 @@
+# Core
+ujson==1.35
+aiohttp==3.3.2
+asyncio_redis==0.14.3
+colorlog==3.1.4
+websockets==5.0.1
+pyyaml==3.12
+
+python-geohash
+pynmea2
+numpi
