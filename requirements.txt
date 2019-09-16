@@ -1,12 +1,17 @@
 # Core
+websockets~=8.0
+colorlog~=4.0
+aiohttp~=3.5
+psutil~=5.4
+ujson~=1.35
+pyyaml~=5.1
+pyserial-asyncio~=0.4
+aiocontextvars~=0.2
+jinja2~=2.10
+
+python-geohash~=0.8
+numpy~=1.15
+pynmea2~=1.12
 ujson==1.35
-aiohttp==3.3.2
-asyncio_redis==0.14.3
-colorlog==3.1.4
-websockets==5.0.1
-pyyaml==3.12
-
-python-geohash==0.8.5
-pynmea2==1.12.0
-numpi==1.14.3
-
+pyyaml~=3.13
+astral==1.6.1
